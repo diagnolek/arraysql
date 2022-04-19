@@ -1,0 +1,12 @@
+{
+    "name": "diagnolek/arraysql",
+    "description": "linq for php",
+    "require": {
+        "propel/propel": "2.0.0-beta1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Diagnolek\\Db\\": "src"
+        }
+    }
+}
